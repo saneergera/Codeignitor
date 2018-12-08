@@ -6,7 +6,7 @@ $(document).on("click", "#apply", function() {
   var button = $(this);
   $.ajax({
     type: "ajax",
-    url: "./seeker/applyJob",
+    url: "/seeker/applyJob",
     method: "post",
     async: false,
     data: data,
