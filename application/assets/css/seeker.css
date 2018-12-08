@@ -5,12 +5,19 @@ body {
   background-color: #fff !important;
   border-color: #fffefe !important;
 }
+.navbar-inverse .navbar-toggle {
+  border-color: #b84843;
+  width: 50px;
+}
 .navbar {
   border-radius: 0px;
   -webkit-box-shadow: 2px 2px 2px #fc0;
   -moz-box-shadow: 2px 2px 2px #fc0;
   box-shadow: 2px 2px 2px #fff;
   z-index: 999;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+  background-color: #c44b40;
 }
 .navbar-inverse .navbar-brand {
   color: #c14b41;
