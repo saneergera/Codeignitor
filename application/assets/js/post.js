@@ -19,7 +19,7 @@ $(document).on("submit", ".form-horizontal", function(event) {
     data: data,
     success: function(result) {
       if (result == 1) {
-        window.location.href = "/Codeignitor/recruiter";
+        window.location.href = "./recruiter";
       }
     },
     error: function(XMLHttpRequest, textStatus, errorThrown) {
