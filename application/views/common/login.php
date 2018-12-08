@@ -35,7 +35,7 @@
 									<div class="form-group">
 										<div class="row">
 											<div class="col-sm-6 col-sm-offset-3">
-												<input type="submit" name="login-submit" id="login-submit" tabindex="4" class="form-control btn btn-login " value="Log in" >
+												<input type="submit" name="login-submit" id="login-submit" tabindex="7" class="form-control btn btn-login " value="Log in" >
 
                       </div>
 										</div>
@@ -51,7 +51,7 @@
                   <div class="form-group">
                     <div class="row">
                       <div class="col-sm-6 col-sm-offset-3">
-                        <input type="submit" name="login-submit" id="login-submit " tabindex="4" class="form-control btn btn-login" value="Log In">
+                        <input type="submit" name="login-submit" id="login-submit " tabindex="5" class="form-control btn btn-login" value="Log In">
                       </div>
                     </div>
                   </div>
